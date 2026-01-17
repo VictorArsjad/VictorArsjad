@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Victor 👋
+
+I'm a backend engineer from Indonesia. I have extensive experience in building and scaling web applications and microservices for companies like Allianz, Moka, and Gojek. 
+
+I am also currently building my very own homelab! If you are curious check out my homelab repo!
 
 <!--
 **VictorArsjad/VictorArsjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
